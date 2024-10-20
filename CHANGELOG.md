@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.3.0](https://github.com/lava081/karin-plugin-adapter-qqbot/compare/v1.2.8...v1.3.0) (2024-10-20)
+
+
+### Features
+
+* getAvatarUrl() ([#12](https://github.com/lava081/karin-plugin-adapter-qqbot/issues/12)) ([5f04a5e](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/5f04a5ebc5eed6d24dc8266b70cbafdc24e7d01d))
+* try to support BotConfig.regex ([#8](https://github.com/lava081/karin-plugin-adapter-qqbot/issues/8)) ([35c5e24](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/35c5e24e22c5b4a4e773d2d76aebb4b0531bb9b1))
+
+
+### Bug Fixes
+
+* build error ([176054c](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/176054c9b39e819962c3c01f536d305831a63850))
+* build error ([4378c9f](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/4378c9f87f115da9041daeb70d1213659bb0f0d2))
+* build error ([1ec7419](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/1ec7419a5b1ba0e9469cadc71cd3f49ef87ecb60))
+* build error ([a1da77d](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/a1da77d9256c6d4a24fb8cb0f20c878c88cf43e4))
+* build error ([5d2d91d](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/5d2d91d6f40a39ed9a1e56cba779bcb6d37f57fe))
+* button e ([d045c30](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/d045c306c9fbefe2df7641ca8ccfc86e61351a4d))
+* ci ([9958ac1](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/9958ac1c121756552c733df6284f49ab37714610))
+* dirname error ([52f5897](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/52f589722a525edaaf2ef9c197545e6a27c7866a))
+* getGroupAvatarUrl name ([7c98c13](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/7c98c134b30c8098843d96aa6d3b2b8295bcb3dd))
+* reply seq ([af824e1](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/af824e13389cab2bbfb0fe0561d06c76bed3ae03))
+* text message send ([#15](https://github.com/lava081/karin-plugin-adapter-qqbot/issues/15)) ([8c50d55](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/8c50d55c9232a3dd88cf9c36372def358d279974))
+* type of reg can't be string ([#22](https://github.com/lava081/karin-plugin-adapter-qqbot/issues/22)) ([e5ea5fd](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/e5ea5fd512c1649d4ff5b7dbc67288aa15790bbf))
+* 修正c2c下没去掉at ([117f223](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/117f223bb9ee01dc1644decbf79c7daefcf3f075))
+* 修正断开连接收监听不到事件 跟随上游 ([3ce38b3](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/3ce38b3e9613d715ee745fac5c6128efa1ae45d9))
+* 补充说明 ([ce9bbe3](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/ce9bbe36a6faea5fa10da22389dffe7c8870d2de))
+* 适配`segment.button` 和 `segment.keyboard` ([66001a0](https://github.com/lava081/karin-plugin-adapter-qqbot/commit/66001a02baf85859f855cfbe6204236210196c84))
+
 ## [1.2.8](https://github.com/KarinJS/karin-plugin-adapter-qqbot/compare/v1.2.7...v1.2.8) (2024-09-15)
 
 
