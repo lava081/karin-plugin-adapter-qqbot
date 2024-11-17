@@ -12,6 +12,9 @@
       "@/*": [
         "src/*"
       ],
+      "node-karin/*": [
+        "../../lib/modules/*"
+      ]
     },
     "rootDir": "src",
     "declaration": true,
